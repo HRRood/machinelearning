@@ -13,7 +13,7 @@ def showProgress(counter, total, message):
     os.system('cls')
     print(output)
 
-dir = r"C:\Users\Marcus\OneDrive - De Haagse Hogeschool\Advanced Databases\Big_Data\Week 15\Opdracht 3 - KNMI\data\golven_en_zeewater\small_set"
+dir = r"C:\Users\Marcus\OneDrive - De Haagse Hogeschool\Advanced Databases\Big_Data\Week 15\datasets\weer_en_luchtdruk\small_set"
 mergeFile = path.join(dir, "dataMerged.gz")
 
 newFile = gzip.open(mergeFile, "w")
