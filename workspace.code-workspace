@@ -1,0 +1,11 @@
+{
+	"folders": [
+		{
+			"path": "."
+		}
+	],
+	"settings": {
+		"jupyter.jupyterServerType": "local",
+		"python.pythonPath": "C:\\Users\\Marcus\\AppData\\Local\\Programs\\Python\\Python39\\python.exe"
+	}
+}
